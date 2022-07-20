@@ -27,7 +27,7 @@
                 </mj-button>
             </mj-column>
         </mj-section>
-        <mj-section padding="0">
+        <mj-section padding="0"> 
             <mj-column width="100%">
                 <mj-image align="center" src="https://i.imgur.com/8XgW8qx.jpg" alt="Girl With Camera" align="center" />
             </mj-column>
