@@ -1,0 +1,228 @@
+<mjml>
+    <mj-head>
+        <mj-title>Newsletter Email</mj-title>
+        <mj-breakpoint width="600px" />
+        <mj-attributes>
+            <mj-all font-family="Helvetica" padding="0" />
+        </mj-attributes> 
+    </mj-head>
+    <mj-body background-color="#F6F6F6">
+        <mj-section>
+            <mj-column width="100%" background-color="#f6f6f6">
+                <mj-image href="#" src="https://i.imgur.com/6n66BnN.png" align="center" width="350px" padding="30px" alt="Moment Logo" />
+            </mj-column>             
+        </mj-section>
+        <mj-section background-color="#CFDFEE" padding-bottom="0">
+            <mj-column width="100%">
+                <mj-text align="center" color="#2B2B29" font-size="48px" font-weight="500" letter-spacing="1px" line-height="1.1" padding-top="90px" padding-bottom="0" padding-left="80px" padding-right="80px">  
+                    "Help! Which filter<br>should I get?"
+                </mj-text>
+                <mj-text align="center" color="#2B2B29" font-size="18px" line-height="170%" padding-top="25px" padding-bottom="40px" padding-left="60px" padding-right="60px"> 
+                    It’s a question we get daily, and rightfully so. Filters are the secret sauce to stellar videos and photos, but learning where to begin or how to buy can be a tricky and time-consuming process for beginners. Read on for a quick guide to picking your first (or 2nd...or 3rd...) filter.
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%">
+                <mj-button href="#" color="#f6f6f6" background-color="#B9874E" text-align="center" font-size="14px" font-weight="normal" text-transform="uppercase" border-radius="0" letter-spacing="2.25px" inner-padding="28px">
+                    shop all urth filters
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column width="100%">
+                <mj-image align="center" src="https://i.imgur.com/8XgW8qx.jpg" alt="Girl With Camera" align="center" />
+            </mj-column>
+        </mj-section> 
+        <mj-section padding-top="20px">
+            <mj-column background-color="#2B2B29" width="100%">
+                <mj-text color="#eeedea" font-size="13px" font-weight="500" text-transform="uppercase" align="center" line-height="2" padding-top="20px" padding-bottom="20px" padding-left="80px" padding-right="80px" letter-spacing="2px" line-height="180%">
+                    types of filters
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#eeedea" padding-top="50px" padding-bottom="0" padding-left="50px" padding-right="50px">
+            <mj-column width="100%">
+              <mj-image href="#" src="https://i.imgur.com/tCQykaC.png" align="center" alt="Image filter 1" align="center" />  
+            </mj-column>
+            <mj-column width="100%">
+              <mj-text align="left" color="#2B2B29" font-size="31px" font-weight="500" letter-spacing="1px" line-height="1.1" padding-top="40px" padding-bottom="0" padding-left="0" padding-right="80px">
+                CPL Filters
+              </mj-text>
+              <mj-text align="left" color="#2B2B29" font-size="13px" font-weight="300" letter-spacing="2px" line-height="180%" padding-top="12px" padding-bottom="9px" padding-left="0" padding-right="80px">
+                BEST FOR: REMOVING UNWANTED REFLECTIONS
+              </mj-text>   
+              <mj-text align="left" color="#2B2B29" font-size="18px" font-weight="300" letter-spacing="0.75px" line-height="170%" padding-top="10px" padding-bottom="40px" padding-left="0" padding-right="50px">
+                CPL filters cut reflected light from any direction. By cutting polarized light, they increase contrast, boost color saturation, control reflections from glass and water, and mitigate shadows by filtering out unwanted glare. Need we say more?!
+              </mj-text>
+              <mj-button align="left" href="#" color="#f6f6f6" background-color="#B9874E" text-align="center" font-size="14px" font-weight="normal" text-transform="uppercase" border-radius="0" letter-spacing="2.25px" padding-top="0" padding-bottom="70px" padding-right="30px" inner-padding="28px">
+                    shop all urth filters
+              </mj-button>               
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#eeedea" padding-bottom="0" padding-left="50px" padding-right="50px">
+            <mj-column width="100%">
+                <mj-divider border-width="1px" border-style="solid" border-color="#ccc" />
+            </mj-column>
+            <mj-column width="100%">
+                <mj-image href="#" src="https://i.imgur.com/fjJ1Ml2.png" align="center" padding-top="70px" padding-bottom="0" alt="Image filter 2" />
+            </mj-column>
+            <mj-column width="100%">
+              <mj-text align="left" color="#2B2B29" font-size="31px" font-weight="500" letter-spacing="1px" line-height="1.1" padding-top="40px" padding-bottom="0" padding-left="0" padding-right="80px">
+                VND Filters
+              </mj-text>
+              <mj-text align="left" color="#2B2B29" font-size="13px" font-weight="300" letter-spacing="2px" line-height="180%" padding-top="12px" padding-bottom="9px" padding-left="0" padding-right="80px">
+                BEST FOR: LONG EXPOSURES
+              </mj-text>   
+              <mj-text align="left" color="#2B2B29" font-size="18px" font-weight="300" letter-spacing="0.75px" line-height="170%" padding-top="10px" padding-bottom="40px" padding-left="0" padding-right="50px">
+                VND Filters allow you to control the amount of light entering your camera, so you can create stronger depth-of-field and motion blur effects. VND filters are great for long exposures, allowing you to get a hazy motion blur in the background of an action shot or smooth the moving water in a waterfall scene.
+              </mj-text>
+              <mj-button align="left" href="#" color="#f6f6f6" background-color="#B9874E" text-align="center" font-size="14px" font-weight="normal" text-transform="uppercase" border-radius="0" letter-spacing="2.25px" padding-top="0" padding-bottom="70px" padding-right="30px" inner-padding="28px">
+                    shop vnd filters
+              </mj-button>               
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#eeedea" padding-bottom="0" padding-left="50px" padding-right="50px">
+            <mj-column width="100%">
+                <mj-divider border-width="1px" border-style="solid" border-color="#ccc" />
+            </mj-column>
+            <mj-column width="100%">
+                <mj-image href="#" src="https://i.imgur.com/EPQ31iJ.png" align="center" padding-top="70px" padding-bottom="0" alt="Image filter 3" />
+            </mj-column>
+            <mj-column width="100%">
+              <mj-text align="left" color="#2B2B29" font-size="31px" font-weight="500" letter-spacing="1px" line-height="1.1" padding-top="40px" padding-bottom="0" padding-left="0" padding-right="80px">
+                UV Filters
+              </mj-text>
+              <mj-text align="left" color="#2B2B29" font-size="13px" font-weight="300" letter-spacing="2px" line-height="180%" padding-top="12px" padding-bottom="9px" padding-left="0" padding-right="80px">
+                BEST FOR: LENS PROTECTION FROM THE ELEMENTS
+              </mj-text>   
+              <mj-text align="left" color="#2B2B29" font-size="18px" font-weight="300" letter-spacing="0.75px" line-height="170%" padding-top="10px" padding-bottom="40px" padding-left="0" padding-right="50px">
+                UV filters help protect against ultraviolet sun rays, harsh wind, sand, and durt. Clumsy? It also acts as a drop-proof mechanism for your worst butterfinger moments. These filters are extremely useful for protecting the longevity of your camera gear, as well as manually controlling how light hits your image.
+              </mj-text>
+              <mj-button align="left" href="#" color="#f6f6f6" background-color="#B9874E" text-align="center" font-size="14px" font-weight="normal" text-transform="uppercase" border-radius="0" letter-spacing="2.25px" padding-top="0" padding-bottom="70px" padding-right="30px" inner-padding="28px">
+                    shop uv filters
+              </mj-button>               
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="20px">
+            <mj-column background-color="#2B2B29" width="100%">
+                <mj-text color="#eeedea" font-size="13px" font-weight="500" text-transform="uppercase" align="center" line-height="2" padding-top="20px" padding-bottom="20px" padding-left="80px" padding-right="80px" letter-spacing="2px" line-height="180%">
+                    finding your filter size
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#eeedea" padding-top="20px" padding-bottom="0" padding-left="50px" padding-right="50px">
+          <mj-column width="100%">
+            <mj-text align="center" color="#2B2B29" font-size="18px" font-weight="300" letter-spacing="0.75px" line-height="170%" padding-top="30px" padding-bottom="30px" padding-left="20px" padding-right="20px">
+               Find your lens filter size by locating the symbol pictured around the rim of your camera lens. This is almost always different than the focal length. 
+            </mj-text>    
+          </mj-column>  
+          <mj-column width="100%">
+            <mj-image href="#" src="https://i.imgur.com/322bgVJ.jpg" align="center" padding-bottom="50px" alt="Image of Camera" />
+          </mj-column>            
+        </mj-section>
+
+        <mj-section padding-top="20px">
+            <mj-column background-color="#2B2B29" width="100%">
+                <mj-text color="#eeedea" font-size="13px" font-weight="500" text-transform="uppercase" align="center" line-height="2" padding-top="20px" padding-bottom="20px" padding-left="80px" padding-right="80px" letter-spacing="2px" line-height="180%">
+                    learn more
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#DAC5B1">  
+          <mj-column width="100%">
+            <mj-image href="#" src="https://i.imgur.com/fKak2Cq.jpg" align="center" height="auto" padding="0" alt="Image of Lens Filter" />
+          </mj-column>
+          <mj-column width="100%">
+            <mj-text align="center" color="#2B2B29" font-size="23px" font-weight="300" letter-spacing="1px" line-height="1.3" padding-top="50px" padding-bottom="20px" padding-left="80px" padding-right="80px">
+              Need more info? Check out all of our filter content on YouTube.  
+            </mj-text>
+            <mj-button align="center" href="#" color="#f6f6f6" background-color="#B9874E" text-align="center" font-size="14px" font-weight="normal" text-transform="uppercase" border-radius="0" letter-spacing="2.25px" padding-top="20px" padding-bottom="50px" padding-left="50px" padding-right="50px" inner-padding="28px">
+                watch now
+            </mj-button>
+          </mj-column>            
+        </mj-section>
+
+        <mj-section background-color="#F6F6F6">
+            <mj-column padding-top="55px" padding-bottom="9px" padding-left="9px" padding-right="9px" width="100%">
+                <mj-image href="#" src="https://i.imgur.com/GOCehRl.png" align="center" width="300px" alt="Moment Logo 2" />
+            </mj-column>   
+            <mj-column width="100%">
+                <mj-text align="center" color="#2B2B29" font-size="16px" font-weight="500" letter-spacing="1px" line-height="1.5" padding-top="10px" padding-bottom="40px" padding-left="18px" padding-right="18px">
+                    Find the gear you need.<br>
+                    From the creatives you love.<br>
+                    Only at Moment.<br>
+                </mj-text>
+            </mj-column>      
+        </mj-section>
+
+        <mj-section background-color="#F6F6F6">
+            <mj-column width="100%">
+                <mj-divider border-width="1px" border-style="solid" border-color="#D9D9D9" />
+            </mj-column> 
+         <mj-column padding-top="9px" padding-bottom="9px" padding-left="18px" padding-right="18px" width="100%">
+            <mj-navbar align="center">
+              <mj-navbar-link href="#" color="#2B2B29" font-size="12px" text-transform="uppercase" letter-spacing="2px" line-height="180%" padding-top="4px" padding-bottom="4px" padding-left="10px" padding-right="10px">shop all</mj-navbar-link>
+              <mj-navbar-link href="#" color="#2B2B29" font-size="12px" text-transform="uppercase" letter-spacing="2px" line-height="180%" padding-top="4px" padding-bottom="4px" padding-left="10px" padding-right="10px">lessons</mj-navbar-link>
+              <mj-navbar-link href="#" color="#2B2B29" font-size="12px" text-transform="uppercase" letter-spacing="2px" line-height="180%" padding-top="4px" padding-bottom="4px" padding-left="10px" padding-right="10px">trips</mj-navbar-link>
+              <mj-navbar-link href="#" color="#2B2B29" font-size="12px" text-transform="uppercase" letter-spacing="2px" line-height="180%" padding-top="4px" padding-bottom="4px" padding-left="10px" padding-right="10px">apps</mj-navbar-link>
+              <mj-navbar-link href="#" color="#2B2B29" font-size="12px" text-transform="uppercase" letter-spacing="2px" line-height="180%" padding-top="4px" padding-bottom="4px" padding-left="10px" padding-right="10px">reviews</mj-navbar-link>  
+            </mj-navbar> 
+         </mj-column>
+        </mj-section>
+ 
+        <mj-section background-color="#F6F6F6">
+            <mj-column width="100%">
+              <mj-divider border-width="2px" border-style="solid" border-color="#C8C8C8" />
+            </mj-column> 
+        </mj-section> 
+
+        <mj-section background-color="#F6F6F6" padding-top="15px" padding-bottom="15px">
+            <mj-column padding-left="0" padding-right="0">   
+                <mj-text align="center" padding-top="15px" padding-bottom="15px">
+                    <mj-image src="https://i.imgur.com/uWv9uFY.png" alt="" />
+                </mj-text>
+            </mj-column> 
+        </mj-section> 
+
+        <mj-section background-color="#F6F6F6" padding-left="100px" padding-right="100px" padding-top="0" padding-bottom="20px"> 
+            <mj-group>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/uWv9uFY.png" width="32px" padding-left="9px" padding-right="9px" alt="Instagram" />
+                </mj-column>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/Hsv171N.png" width="32px" padding-left="9px" padding-right="9px" alt="Twitter" />
+                </mj-column>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/Ms1MpMT.png" width="32px" padding-left="9px" padding-right="9px" alt="Facebook" />
+                </mj-column>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/NhuhxUG.png" width="32px" padding-left="9px" padding-right="9px" alt="Youtube" />
+                </mj-column>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/Bx5Owdb.png" width="32px" padding-left="9px" padding-right="9px" alt="Linkedin" />
+                </mj-column>
+                <mj-column>
+                  <mj-image href="#" src="https://i.imgur.com/VtFstzo.png" width="32px" padding-left="9px" padding-right="9px" alt="Tiktok" />
+                </mj-column> 
+            </mj-group>
+        </mj-section>
+
+        <mj-section background-color="#F6F6F6">
+            <mj-column padding-top="40px" padding-bottom="30px" padding-left="20px" padding-right="20px"> 
+                <mj-text align="center" color="#2B2B29" font-size="10px" letter-spacing="0.75px" padding-bottom="25px">
+                    55 S Atlantic St Seattle, WA 98134
+                </mj-text>
+                <mj-text align="center" color="#2B2B29" font-size="10px" letter-spacing="0.75px">
+                    Don't want these emails? <a href="#" style="color:#2B2B29; text-decoration: none;">Unsubscribe</a> or <a href="#" style="color:#2B2B29; text-decoration: none;">Manage Prefrences</a> 
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+    </mj-body>
+</mjml>
